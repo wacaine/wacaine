@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wacaine
 - 👀 I’m interested in Mountain Biking and the Metaverse
-- 🌱 I’m currently learning the NodeJS
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Decentraland Projects
 - 📫 How to reach me: Discord: wacaine#8779 
 
